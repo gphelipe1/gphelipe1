@@ -1,5 +1,5 @@
 ### Hello! I'm Gabriel Costa👋
-I am a software developer with a bachelor’s degree in Computer Science. I have a strong background in development, with extensive experience in building scalable web and mobile applications. Currently, I am primarily focused on React, TypeScript, and JavaScript, along with Next.js and Redux, as my preferred front-end stacks. For backend development, I am proficient in C# and .NET. I possess additional skills as well, so please feel free to ask any questions or reach out to me. 😉
+I am a software developer with a bachelor’s degree in Computer Science. I have a strong background in development, with extensive experience in building scalable web and mobile applications. Currently, I am primarily focused on React, TypeScript, and JavaScript, along with Next.js and Redux, as my preferred front-end stacks. For backend development, I am proficient in C# and .NET. I possess additional skills as well, so don't hesitate to ask me anything or get in touch.  😉
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gphelipe1&theme=tokyonight&show_icons=true)
   
