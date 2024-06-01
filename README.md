@@ -1,5 +1,5 @@
 ### Hello! I'm Gabriel Costa👋
-I am a software developer with a bachelor’s degree in Computer Science. I have a strong background in development, with extensive experience in building scalable web and mobile applications. Currently, I am primarily focused on React, TypeScript, and JavaScript, along with Next.js and Redux, as my preferred front-end stacks. For backend development, I am proficient in C#, .NET and Node Js. I possess additional skills as well, so don't hesitate to ask me anything or get in touch.  😉
+I am a software developer with a bachelor’s degree in Computer Science. I have a strong background in development, with extensive experience in building scalable web and mobile applications. Currently, I am primarily focused on React, TypeScript, and JavaScript, along with Next.js and Redux, as my preferred front-end stacks. For backend development, I am proficient in NodeJs, C# and .NET. I possess additional skills as well, so don't hesitate to ask me anything or get in touch.  😉
 
 <div> 
   <a href="https://instagram.com/gphelipe1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
